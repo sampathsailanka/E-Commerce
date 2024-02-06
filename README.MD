@@ -14,4 +14,6 @@ That's it.. :)
 
 The below is the link which directs youn to the deployed API docmentation.
 
+Reach out to me if you had any queries.
+
 https://e-commerce-zs1a.onrender.com/
